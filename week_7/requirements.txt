@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+mlxtend
+jupyter
+nbformat
+nbclient
